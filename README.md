@@ -31,7 +31,7 @@ App will be accessible at: `http://localhost:8501`
 ---
 
 Sample Questions to Chatbot:
----Upload your resume + multiple job postings → ask questions like  
+---Upload your resume + multiple job postings (in the left sidebar of UI) → ask questions like  
 - "What skills am I missing for Job #1?"  
 - "How well does my experience align with Job #2?"  
 - "Give me a fit percentage and recommendations"  
@@ -80,6 +80,7 @@ The overall system is intentionally simple but structured enough to mimic produc
 - **Fit analysis** — percentage estimate + structured strengths/gaps/recommendations
 - **Quick actions** — one-click detailed analysis buttons for each job
 - **Guardrails** — basic regex-based input blocking + PII redaction on output
+- **Metrics** — number of requests and average response time (per session) 
 
 ### Key Technical Decisions & Why
 
