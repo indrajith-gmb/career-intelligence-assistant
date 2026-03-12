@@ -70,7 +70,6 @@ The overall system is intentionally simple but structured enough to mimic produc
 | Logging            | Python logging → `career_assistant.log` | 
 | Session Management | Streamlit `session_state`           | 
 
----
 
 ## Features & Design Choices
 
