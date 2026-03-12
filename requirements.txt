@@ -1,0 +1,14 @@
+# Core dependencies
+streamlit==1.31.0
+
+# Document parsing
+PyPDF2==3.0.1
+python-docx==1.1.0
+
+# OpenAI integration
+openai==2.26.0
+
+# Utilities
+python-dotenv==1.0.0
+
+chromadb==0.4.24

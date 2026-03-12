@@ -1,0 +1,46 @@
+Lead Backend Engineer
+Company: DataFlow Systems
+Location: Remote (US Only)
+Salary: $160,000 - $200,000
+
+ABOUT US
+DataFlow Systems is revolutionizing how enterprises handle real-time data processing. We're building the next generation of data infrastructure that powers decision-making for Fortune 500 companies.
+
+THE OPPORTUNITY
+We're looking for a Lead Backend Engineer to architect and build scalable distributed systems. This role offers the chance to work on challenging technical problems and shape our engineering culture.
+
+WHAT YOU'LL DO
+- Design and implement highly scalable backend systems
+- Lead architectural decisions for distributed systems
+- Build real-time data processing pipelines handling millions of events per second
+- Optimize system performance, reliability, and cost efficiency
+- Mentor and guide backend engineering team
+- Establish engineering best practices and coding standards
+- Collaborate with stakeholders to define technical requirements
+
+REQUIRED SKILLS
+- 7+ years of backend engineering experience
+- Expert-level proficiency in Python, Go, or Java
+- Deep understanding of distributed systems and microservices
+- Strong experience with message queues (Kafka, RabbitMQ)
+- Proficiency with NoSQL databases (MongoDB, Cassandra, Redis)
+- Experience designing and optimizing high-throughput systems
+- Solid understanding of system design and architecture patterns
+- Experience with cloud infrastructure (AWS or GCP)
+
+NICE TO HAVE
+- Experience with real-time data processing frameworks (Apache Spark, Flink)
+- Knowledge of machine learning pipelines
+- Experience with Terraform or infrastructure as code
+- Strong understanding of security best practices
+- Previous experience in a technical leadership role
+- Track record of mentoring engineers
+
+WHY JOIN US
+- Work on cutting-edge distributed systems technology
+- Fully remote with flexible hours
+- Competitive compensation with significant equity
+- Unlimited PTO
+- Top-tier health benefits
+- Annual learning and development stipend
+- Home office setup allowance
